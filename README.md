@@ -1,6 +1,10 @@
 # 💫 About Me:
 
 I'm a high school student interested in programming and game development.
+I want to experience most of the fields in this sector and find the one that suits me most.
+Because of that, I am trying learn and build everything that attracts my attention.
+I hope you like my work :)
+
 🌱 I’m currently learning Python and C++
 
 
