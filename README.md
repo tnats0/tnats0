@@ -5,7 +5,7 @@ I want to experience most of the fields in this sector and find the one that sui
 Because of that, I am trying learn and build everything that attracts my attention.
 I hope you like my work :)
 
-🌱 I’m currently learning Python and C++
+🌱 I’m currently learning Docker and FastAPI.
 
 
 ## 🌐 Socials:
